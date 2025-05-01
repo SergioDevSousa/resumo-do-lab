@@ -37,3 +37,15 @@
   Gerenciamento de acessos, autenticação multifator e integração com ambientes corporativos.
 
 ---
+## Máquinas virtuais
+
+Claro! Aqui vai um **resumo breve** do processo de criação e configuração de uma máquina virtual (VM) no **Microsoft Azure**:
+
+1. **Acesse o portal do Azure**: [https://portal.azure.com](https://portal.azure.com).
+2. **Crie um recurso**: Clique em "Criar um recurso" e selecione "Máquina Virtual".
+3. **Configure as informações básicas**: Escolha assinatura, grupo de recursos, nome da VM, região, imagem do sistema operacional (Windows/Linux), tamanho da VM e credenciais de acesso.
+4. **Defina as opções de disco**: Escolha entre discos SSD ou HDD.
+5. **Configure a rede**: Crie ou escolha uma rede virtual, sub-rede e regras de firewall (como porta 3389 para RDP ou 22 para SSH).
+6. **Revise e crie**: Valide as configurações e clique em "Criar".
+
+A VM será provisionada em poucos minutos e poderá ser acessada conforme o método definido (RDP ou SSH).
