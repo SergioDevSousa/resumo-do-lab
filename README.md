@@ -49,3 +49,23 @@ Claro! Aqui vai um **resumo breve** do processo de criação e configuração de
 6. **Revise e crie**: Valide as configurações e clique em "Criar".
 
 A VM será provisionada em poucos minutos e poderá ser acessada conforme o método definido (RDP ou SSH).
+
+---
+
+## Recurso de Banco de dados SQL no Azure
+
+Microsoft Azure:
+
+Acesse o portal do Azure: https://portal.azure.com.
+
+Crie um recurso: Selecione "Banco de Dados SQL" ou outro tipo (como PostgreSQL, MySQL, etc.).
+
+Configure as informações básicas: Defina o nome do banco, servidor (novo ou existente), região, e camada de desempenho (DTUs ou vCores).
+
+Configure a autenticação: Defina usuário e senha de administrador do banco.
+
+Configure a rede: Defina regras de firewall e acesso público/privado.
+
+Revise e crie: Verifique as configurações e clique em "Criar".
+
+Em poucos minutos, a instância estará pronta para uso com conexão via string em aplicações ou ferramentas de gerenciamento.
