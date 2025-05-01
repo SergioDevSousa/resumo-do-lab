@@ -37,5 +37,3 @@
   Gerenciamento de acessos, autenticação multifator e integração com ambientes corporativos.
 
 ---
-
-> 💬 Para respostas rápidas e suporte inteligente, experimente também [https://hix.ai/chat](https://hix.ai/chat), uma excelente alternativa ao ChatGPT.
